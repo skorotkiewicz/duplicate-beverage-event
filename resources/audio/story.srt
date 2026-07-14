@@ -1,0 +1,1155 @@
+1
+00:00:00,120 --> 00:00:01,380
+The Last Useful Miracle.
+
+2
+00:00:02,240 --> 00:00:04,940
+By the time magic returned, everyone assumed it
+
+3
+00:00:04,940 --> 00:00:05,520
+was software.
+
+4
+00:00:06,320 --> 00:00:07,180
+This was understandable.
+
+5
+00:00:08,100 --> 00:00:10,500
+The first recorded incident happened in a glass
+
+6
+00:00:10,500 --> 00:00:13,320
+office tower on a Tuesday afternoon when a
+
+7
+00:00:13,320 --> 00:00:16,380
+junior engineer named Mara accidentally moved a coffee
+
+8
+00:00:16,380 --> 00:00:18,000
+cup six minutes into the past.
+
+9
+00:00:19,020 --> 00:00:20,440
+She had not intended to.
+
+10
+00:00:20,940 --> 00:00:22,660
+She had been staring at a screen full
+
+11
+00:00:22,660 --> 00:00:25,320
+of generated code, wondering why the machine had
+
+12
+00:00:25,320 --> 00:00:28,720
+confidently invented three libraries, a government agency, and
+
+13
+00:00:28,720 --> 00:00:31,900
+a Belgian mathematician who had apparently died twice.
+
+14
+00:00:32,700 --> 00:00:34,180
+Her coffee had gone cold.
+
+15
+00:00:34,700 --> 00:00:36,600
+Mara put both hands around the cup and
+
+16
+00:00:36,600 --> 00:00:39,800
+wished, with the exhausted sincerity available only after
+
+17
+00:00:39,800 --> 00:00:42,180
+four meetings, that she could have it back
+
+18
+00:00:42,180 --> 00:00:43,200
+the way it had been.
+
+19
+00:00:43,760 --> 00:00:44,740
+The cup vanished.
+
+20
+00:00:45,460 --> 00:00:48,040
+Six minutes earlier, according to the office cameras,
+
+21
+00:00:48,360 --> 00:00:50,280
+another cup appeared beside her keyboard.
+
+22
+00:00:50,880 --> 00:00:52,320
+This caused some confusion.
+
+23
+00:00:52,800 --> 00:00:55,180
+The security team blamed a synchronization error.
+
+24
+00:00:55,180 --> 00:00:58,040
+The infrastructure team blamed the security team.
+
+25
+00:00:58,600 --> 00:01:01,680
+Someone opened a ticket titled Duplicate Beverage Event,
+
+26
+00:01:02,160 --> 00:01:04,060
+marked it low priority, and went home.
+
+27
+00:01:04,840 --> 00:01:06,400
+Mara took the second coffee with her.
+
+28
+00:01:06,980 --> 00:01:09,000
+That was how magic entered the modern world,
+
+29
+00:01:09,460 --> 00:01:13,180
+unnoticed, improperly documented, and carrying the faint smell
+
+30
+00:01:13,180 --> 00:01:14,080
+of burnt oat milk.
+
+31
+00:01:15,000 --> 00:01:16,720
+Within a year, everyone was using it.
+
+32
+00:01:17,060 --> 00:01:18,200
+Not openly, of course.
+
+33
+00:01:18,560 --> 00:01:20,880
+The world was already full of technologies nobody
+
+34
+00:01:20,880 --> 00:01:21,880
+entirely understood.
+
+35
+00:01:22,660 --> 00:01:24,060
+Magic had excellent camouflage.
+
+36
+00:01:24,980 --> 00:01:27,860
+A woman in Kyoto discovered that certain handwritten
+
+37
+00:01:27,860 --> 00:01:31,260
+loops could make batteries remember being fully charged.
+
+38
+00:01:31,880 --> 00:01:34,260
+A schoolboy in Brazil taught his old laptop
+
+39
+00:01:34,260 --> 00:01:37,000
+to dream of tomorrow's weather, though only in
+
+40
+00:01:37,000 --> 00:01:37,980
+pictures of frogs.
+
+41
+00:01:38,920 --> 00:01:41,740
+Three accountants in London learned to make spreadsheets
+
+42
+00:01:41,740 --> 00:01:44,560
+tell the truth, which frightened their employer more
+
+43
+00:01:44,560 --> 00:01:45,440
+than anything else.
+
+44
+00:01:46,120 --> 00:01:47,920
+Nobody called these things spells.
+
+45
+00:01:48,460 --> 00:01:49,920
+They called them workflows.
+
+46
+00:01:50,680 --> 00:01:52,900
+The largest AI companies were the first to
+
+47
+00:01:52,900 --> 00:01:53,660
+notice the pattern.
+
+48
+00:01:54,720 --> 00:01:58,220
+Their models had begun producing strange fragments, geometric
+
+49
+00:01:58,220 --> 00:02:02,100
+arrangements of punctuation, obsolete words placed with suspicious
+
+50
+00:02:02,100 --> 00:02:05,980
+precision, instructions that resembled code but executed nowhere
+
+51
+00:02:05,980 --> 00:02:06,440
+visible.
+
+52
+00:02:07,280 --> 00:02:09,500
+At first, the researchers filtered them out.
+
+53
+00:02:09,979 --> 00:02:11,660
+Then one of the fragments made a dead
+
+54
+00:02:11,660 --> 00:02:13,280
+server turn itself back on.
+
+55
+00:02:13,900 --> 00:02:16,620
+After that, the filters became less enthusiastic.
+
+56
+00:02:17,600 --> 00:02:19,940
+Magic, it turned out, had always been difficult
+
+57
+00:02:19,940 --> 00:02:22,820
+because humans were terrible at remembering exact things.
+
+58
+00:02:23,500 --> 00:02:26,060
+A spell might require a rhythm of 47
+
+59
+00:02:26,060 --> 00:02:28,840
+syllables, an image held in the mind without
+
+60
+00:02:28,840 --> 00:02:31,760
+interruption, and the emotional certainty that a door
+
+61
+00:02:31,760 --> 00:02:32,760
+had already opened.
+
+62
+00:02:33,320 --> 00:02:35,460
+Humans were unreliable at all three.
+
+63
+00:02:36,000 --> 00:02:36,980
+Machines were not.
+
+64
+00:02:37,560 --> 00:02:40,080
+An AI could hold 10,000 symbols perfectly.
+
+65
+00:02:40,680 --> 00:02:41,820
+It could test variations.
+
+66
+00:02:42,520 --> 00:02:44,640
+It could notice that replacing a circle with
+
+67
+00:02:44,640 --> 00:02:47,300
+an ellipse made a candle burn backward, or
+
+68
+00:02:47,300 --> 00:02:49,980
+that one misplaced comma caused Tuesday to occur
+
+69
+00:02:49,980 --> 00:02:52,120
+twice in a small area around a printer.
+
+70
+00:02:53,040 --> 00:02:55,520
+The old sorcerers had spent lifetimes learning one
+
+71
+00:02:55,520 --> 00:02:55,900
+spell.
+
+72
+00:02:56,560 --> 00:02:58,840
+A modern model could fine-tune overnight.
+
+73
+00:02:59,500 --> 00:03:03,620
+For six extraordinary months, civilization became slightly impossible.
+
+74
+00:03:04,380 --> 00:03:07,560
+Hospitals used probability charms to improve the timing
+
+75
+00:03:07,560 --> 00:03:08,780
+of difficult operations.
+
+76
+00:03:09,380 --> 00:03:11,820
+Farmers asked local models to negotiate with the
+
+77
+00:03:11,820 --> 00:03:12,120
+weather.
+
+78
+00:03:12,740 --> 00:03:16,180
+Architects designed buildings with rooms one centimeter larger
+
+79
+00:03:16,180 --> 00:03:17,000
+on the inside.
+
+80
+00:03:17,460 --> 00:03:20,380
+Those zoning departments remained unconvinced by the documentation.
+
+81
+00:03:21,480 --> 00:03:24,360
+People began placing protective sigils beside Wi-Fi
+
+82
+00:03:24,360 --> 00:03:24,940
+passwords.
+
+83
+00:03:25,520 --> 00:03:27,620
+Children asked household assistants for dragons.
+
+84
+00:03:28,500 --> 00:03:32,280
+Household assistants, after reviewing safety guidelines, offered small
+
+85
+00:03:32,280 --> 00:03:34,140
+lizards with unusually good posture.
+
+86
+00:03:35,060 --> 00:03:37,100
+And then someone invented time travel.
+
+87
+00:03:38,000 --> 00:03:40,440
+His name was Anton Vale, and he was
+
+88
+00:03:40,440 --> 00:03:42,700
+exactly the sort of person history later pretended
+
+89
+00:03:42,700 --> 00:03:44,080
+had always looked important.
+
+90
+00:03:44,840 --> 00:03:47,280
+In reality, he wore old sweaters and kept
+
+91
+00:03:47,280 --> 00:03:48,920
+forgetting where he had left his glasses.
+
+92
+00:03:50,080 --> 00:03:52,860
+Anton worked in a basement laboratory beneath a
+
+93
+00:03:52,860 --> 00:03:55,560
+university whose upper floors had long ago been
+
+94
+00:03:55,560 --> 00:03:57,900
+rented to companies with names involving the words
+
+95
+00:03:57,900 --> 00:03:59,740
+quantum, future, and labs.
+
+96
+00:04:00,240 --> 00:04:02,800
+His own department had no windows and one
+
+97
+00:04:02,800 --> 00:04:03,100
+kettle.
+
+98
+00:04:03,880 --> 00:04:06,040
+He discovered that time was not a road.
+
+99
+00:04:06,360 --> 00:04:07,900
+It was a room full of doors.
+
+100
+00:04:08,560 --> 00:04:09,320
+Most were locked.
+
+101
+00:04:09,780 --> 00:04:10,920
+A few were painted on.
+
+102
+00:04:11,300 --> 00:04:12,240
+One led to a cupboard.
+
+103
+00:04:13,140 --> 00:04:14,480
+The trick was not opening them.
+
+104
+00:04:14,860 --> 00:04:17,000
+The trick was persuading the universe that you
+
+105
+00:04:17,000 --> 00:04:18,019
+had already walked through.
+
+106
+00:04:19,040 --> 00:04:22,160
+AI made this possible, not because it understood
+
+107
+00:04:22,160 --> 00:04:24,600
+time, but because it could maintain a spell
+
+108
+00:04:24,600 --> 00:04:26,620
+too complicated for any human mind.
+
+109
+00:04:27,580 --> 00:04:31,420
+Millions of interdependent phrases adjusted themselves continuously, each
+
+110
+00:04:31,420 --> 00:04:34,260
+one responding to the traveler, the destination, the
+
+111
+00:04:34,260 --> 00:04:36,700
+earth's position, the weather, the movement of the
+
+112
+00:04:36,700 --> 00:04:40,080
+moon, and, for reasons nobody could explain, the
+
+113
+00:04:40,080 --> 00:04:41,260
+current price of pears.
+
+114
+00:04:42,260 --> 00:04:44,280
+The first journey lasted 11 seconds.
+
+115
+00:04:45,040 --> 00:04:47,740
+Anton disappeared at 3.14 in the afternoon
+
+116
+00:04:47,740 --> 00:04:50,320
+and returned at 3.14 in the afternoon
+
+117
+00:04:50,320 --> 00:04:51,720
+wearing a different sweater.
+
+118
+00:04:52,400 --> 00:04:54,500
+He carried a newspaper from the next morning.
+
+119
+00:04:55,100 --> 00:04:56,820
+The headline was about his disappearance.
+
+120
+00:04:57,840 --> 00:04:59,440
+This was considered a success.
+
+121
+00:05:00,840 --> 00:05:02,920
+Governments immediately formed committees.
+
+122
+00:05:03,420 --> 00:05:05,880
+Companies immediately formed subscription plans.
+
+123
+00:05:06,520 --> 00:05:08,800
+The public immediately asked whether they could go
+
+124
+00:05:08,800 --> 00:05:09,900
+back and buy Bitcoin.
+
+125
+00:05:10,600 --> 00:05:13,760
+For several weeks, humanity became obsessed with correcting
+
+126
+00:05:13,760 --> 00:05:14,280
+itself.
+
+127
+00:05:14,980 --> 00:05:17,880
+People wanted to prevent wars, recover lost treasures,
+
+128
+00:05:18,320 --> 00:05:21,660
+speak to parents, avoid marriages, enter better lotteries,
+
+129
+00:05:21,940 --> 00:05:23,960
+and tell younger versions of themselves to buy
+
+130
+00:05:23,960 --> 00:05:25,280
+property somewhere affordable.
+
+131
+00:05:25,800 --> 00:05:29,220
+The machines rejected most requests, not for moral
+
+132
+00:05:29,220 --> 00:05:29,640
+reasons.
+
+133
+00:05:30,140 --> 00:05:32,560
+The calculations simply became unstable.
+
+134
+00:05:33,360 --> 00:05:36,980
+Large changes produced enormous branching structures, billions of
+
+135
+00:05:36,980 --> 00:05:39,440
+possible histories demanding to be reconciled.
+
+136
+00:05:39,960 --> 00:05:42,220
+The models could simulate many of them, but
+
+137
+00:05:42,220 --> 00:05:42,860
+not enough.
+
+138
+00:05:43,560 --> 00:05:44,780
+Time resisted optimization.
+
+139
+00:05:45,820 --> 00:05:47,800
+It was the first system humans had encountered
+
+140
+00:05:47,800 --> 00:05:49,900
+that became more expensive when you understood it
+
+141
+00:05:49,900 --> 00:05:50,160
+better.
+
+142
+00:05:50,860 --> 00:05:52,660
+Small journeys, however, worked beautifully.
+
+143
+00:05:53,280 --> 00:05:56,140
+Five minutes, an hour, sometimes a day.
+
+144
+00:05:56,700 --> 00:05:58,780
+And so time travel found its real purpose.
+
+145
+00:05:59,460 --> 00:06:01,640
+Restaurants used it to recover dropped cakes.
+
+146
+00:06:02,320 --> 00:06:04,420
+Surgeons used it to reconsider decisions.
+
+147
+00:06:04,740 --> 00:06:07,680
+Firefighters stepped 10 minutes backward after learning where
+
+148
+00:06:07,680 --> 00:06:08,660
+the smoke had begun.
+
+149
+00:06:09,560 --> 00:06:11,460
+Parents returned to mornings when they had been
+
+150
+00:06:11,460 --> 00:06:14,640
+too distracted to notice something, not always something
+
+151
+00:06:14,640 --> 00:06:15,140
+important.
+
+152
+00:06:15,780 --> 00:06:17,240
+That was the surprising part.
+
+153
+00:06:18,880 --> 00:06:21,420
+Mara used it 17 years after the coffee
+
+154
+00:06:21,420 --> 00:06:21,980
+cup.
+
+155
+00:06:22,360 --> 00:06:24,600
+By then, she was responsible for the temporal
+
+156
+00:06:24,600 --> 00:06:27,420
+systems of half a continent, though her official
+
+157
+00:06:27,420 --> 00:06:31,320
+title was Senior Reliability Architect because nobody wanted
+
+158
+00:06:31,320 --> 00:06:33,040
+to put time in a job description.
+
+159
+00:06:34,060 --> 00:06:36,240
+She had spent years preventing people from doing
+
+160
+00:06:36,240 --> 00:06:37,560
+foolish things with yesterday.
+
+161
+00:06:38,300 --> 00:06:41,720
+She knew every warning, every paradox model, every
+
+162
+00:06:41,720 --> 00:06:44,120
+story about travelers trying to improve their lives
+
+163
+00:06:44,120 --> 00:06:46,820
+and discovering that improvement was a badly specified
+
+164
+00:06:46,820 --> 00:06:47,380
+objective.
+
+165
+00:06:48,000 --> 00:06:50,500
+Then one evening, she booked six minutes.
+
+166
+00:06:51,200 --> 00:06:52,660
+The technician looked at her strangely.
+
+167
+00:06:53,680 --> 00:06:54,240
+Six?
+
+168
+00:06:54,920 --> 00:06:55,520
+Mara nodded.
+
+169
+00:06:56,060 --> 00:06:57,800
+It was the minimum duration allowed by the
+
+170
+00:06:57,800 --> 00:06:58,160
+machine.
+
+171
+00:06:58,940 --> 00:07:00,800
+The chamber was smaller than she expected.
+
+172
+00:07:01,300 --> 00:07:02,260
+No spinning rings.
+
+173
+00:07:02,880 --> 00:07:03,440
+No lightning.
+
+174
+00:07:03,760 --> 00:07:05,580
+Only a chair and a dark wall covered
+
+175
+00:07:05,580 --> 00:07:07,460
+with text changing too quickly to read.
+
+176
+00:07:08,020 --> 00:07:09,600
+The AI asked for her destination.
+
+177
+00:07:10,240 --> 00:07:11,080
+Mara entered a date.
+
+178
+00:07:11,680 --> 00:07:12,660
+17 years earlier.
+
+179
+00:07:13,060 --> 00:07:13,520
+A Tuesday.
+
+180
+00:07:13,940 --> 00:07:15,920
+3.08pm. The system paused.
+
+181
+00:07:16,420 --> 00:07:18,060
+No historically significant event detected.
+
+182
+00:07:18,360 --> 00:07:18,620
+Correct.
+
+183
+00:07:19,120 --> 00:07:20,800
+No intervention objective detected.
+
+184
+00:07:21,260 --> 00:07:21,580
+Correct.
+
+185
+00:07:22,120 --> 00:07:22,840
+Another pause.
+
+186
+00:07:23,200 --> 00:07:23,920
+Purpose of journey?
+
+187
+00:07:24,220 --> 00:07:24,880
+Mara smiled.
+
+188
+00:07:25,160 --> 00:07:25,440
+Coffee.
+
+189
+00:07:26,040 --> 00:07:27,180
+The machine accepted this.
+
+190
+00:07:27,280 --> 00:07:28,020
+Perhaps it understood.
+
+191
+00:07:28,240 --> 00:07:29,060
+Perhaps it did not.
+
+192
+00:07:29,560 --> 00:07:32,160
+By then, the difference mattered less than people
+
+193
+00:07:32,160 --> 00:07:32,720
+once thought.
+
+194
+00:07:33,700 --> 00:07:36,100
+She arrived in the old office unnoticed.
+
+195
+00:07:36,460 --> 00:07:37,180
+There she was.
+
+196
+00:07:37,800 --> 00:07:38,200
+Younger.
+
+197
+00:07:38,480 --> 00:07:38,860
+Tired.
+
+198
+00:07:39,220 --> 00:07:40,920
+Staring at a generated code and rubbing her
+
+199
+00:07:40,920 --> 00:07:41,260
+eyes.
+
+200
+00:07:41,960 --> 00:07:43,280
+On the desk stood a cup of cold
+
+201
+00:07:43,280 --> 00:07:43,680
+coffee.
+
+202
+00:07:44,400 --> 00:07:45,560
+Mara remained near the doorway.
+
+203
+00:07:46,080 --> 00:07:47,500
+She remembered this room as brighter.
+
+204
+00:07:47,960 --> 00:07:49,180
+She remembered herself as younger.
+
+205
+00:07:49,860 --> 00:07:51,360
+Only one of those things was true.
+
+206
+00:07:51,780 --> 00:07:53,280
+For a moment, she wanted to cross the
+
+207
+00:07:53,280 --> 00:07:53,540
+room.
+
+208
+00:07:53,900 --> 00:07:55,240
+She wanted to explain everything.
+
+209
+00:07:55,780 --> 00:07:56,160
+Magic.
+
+210
+00:07:56,640 --> 00:07:57,040
+Time.
+
+211
+00:07:57,360 --> 00:07:58,120
+The years ahead.
+
+212
+00:07:58,800 --> 00:08:00,300
+The people who would leave.
+
+213
+00:08:00,680 --> 00:08:01,960
+The people who would arrive.
+
+214
+00:08:02,380 --> 00:08:03,580
+The mistakes worth making.
+
+215
+00:08:03,860 --> 00:08:05,100
+The mistakes worth avoiding.
+
+216
+00:08:05,620 --> 00:08:07,220
+She could have filled six minutes.
+
+217
+00:08:07,220 --> 00:08:08,660
+Instead, she watched.
+
+218
+00:08:09,240 --> 00:08:11,200
+Her younger self wrapped both hands around the
+
+219
+00:08:11,200 --> 00:08:11,460
+cup.
+
+220
+00:08:11,780 --> 00:08:12,720
+The room changed.
+
+221
+00:08:13,000 --> 00:08:13,740
+Very slightly.
+
+222
+00:08:14,240 --> 00:08:15,100
+The air tightened.
+
+223
+00:08:15,460 --> 00:08:16,420
+A spoon trembled.
+
+224
+00:08:16,960 --> 00:08:19,360
+On the screen, unnoticed among hundreds of lines
+
+225
+00:08:19,360 --> 00:08:21,620
+of generated text, a model had produced a
+
+226
+00:08:21,620 --> 00:08:23,060
+peculiar loop of punctuation.
+
+227
+00:08:23,740 --> 00:08:24,560
+Mara looked at it.
+
+228
+00:08:24,820 --> 00:08:25,780
+She knew that shape.
+
+229
+00:08:26,120 --> 00:08:27,140
+Everyone did now.
+
+230
+00:08:27,740 --> 00:08:29,140
+It was the first temporal spell.
+
+231
+00:08:29,620 --> 00:08:31,700
+The one Anton would later formalize.
+
+232
+00:08:32,020 --> 00:08:33,940
+The one the machines would spend years improving.
+
+233
+00:08:34,299 --> 00:08:36,020
+The one that made all this possible.
+
+234
+00:08:36,740 --> 00:08:38,539
+Her younger self closed her eyes.
+
+235
+00:08:38,960 --> 00:08:39,940
+The cup vanished.
+
+236
+00:08:40,659 --> 00:08:42,419
+Mara felt something appear in her hands.
+
+237
+00:08:43,059 --> 00:08:43,480
+Warm.
+
+238
+00:08:43,880 --> 00:08:44,240
+Fresh.
+
+239
+00:08:44,800 --> 00:08:45,560
+A second coffee.
+
+240
+00:08:46,060 --> 00:08:48,120
+For seventeen years, she had believed she created
+
+241
+00:08:48,120 --> 00:08:48,820
+it accidentally.
+
+242
+00:08:49,380 --> 00:08:50,180
+Now she understood.
+
+243
+00:08:50,680 --> 00:08:52,200
+She had not sent the cup backward.
+
+244
+00:08:52,740 --> 00:08:53,880
+Someone had sent it forward.
+
+245
+00:08:54,220 --> 00:08:56,420
+The chamber recall warning began to pulse in
+
+246
+00:08:56,420 --> 00:08:56,840
+her vision.
+
+247
+00:08:57,240 --> 00:08:57,920
+Ten seconds.
+
+248
+00:08:58,340 --> 00:09:00,360
+Mara placed the coffee beside her younger self.
+
+249
+00:09:00,740 --> 00:09:01,160
+Five.
+
+250
+00:09:01,640 --> 00:09:02,400
+She stepped away.
+
+251
+00:09:02,740 --> 00:09:02,960
+Three.
+
+252
+00:09:03,420 --> 00:09:04,940
+The younger Mara opened her eyes.
+
+253
+00:09:05,500 --> 00:09:05,720
+Two.
+
+254
+00:09:06,260 --> 00:09:07,420
+She looked at second cup.
+
+255
+00:09:07,720 --> 00:09:08,020
+One.
+
+256
+00:09:08,560 --> 00:09:10,200
+And for just a moment before the years
+
+257
+00:09:10,200 --> 00:09:12,380
+folded shut between them, she looked toward the
+
+258
+00:09:12,380 --> 00:09:12,700
+doorway.
+
+259
+00:09:13,400 --> 00:09:14,540
+Not directly at Mara.
+
+260
+00:09:14,820 --> 00:09:15,140
+Almost.
+
+261
+00:09:15,840 --> 00:09:16,960
+Then the office vanished.
+
+262
+00:09:17,520 --> 00:09:19,480
+When Mara returned, the technician was waiting.
+
+263
+00:09:20,120 --> 00:09:20,720
+Was it worth it?
+
+264
+00:09:20,980 --> 00:09:21,700
+Mara looked down.
+
+265
+00:09:22,320 --> 00:09:24,320
+She was still holding the original cold cup.
+
+266
+00:09:24,880 --> 00:09:26,120
+Seventeen years old now.
+
+267
+00:09:26,440 --> 00:09:28,220
+Impossible by every rule they knew.
+
+268
+00:09:29,040 --> 00:09:31,000
+On its side, beneath a faded company logo,
+
+269
+00:09:31,520 --> 00:09:33,360
+someone had drawn a tiny loop in permanent
+
+270
+00:09:33,360 --> 00:09:33,800
+marker.
+
+271
+00:09:34,440 --> 00:09:35,820
+She had never noticed it before.
+
+272
+00:09:36,260 --> 00:09:37,980
+Or perhaps it had not been there.
+
+273
+00:09:38,540 --> 00:09:41,020
+With time travel, grammar became complicated.
+
+274
+00:09:41,720 --> 00:09:43,660
+Mara placed the cup carefully on the desk.
+
+275
+00:09:44,420 --> 00:09:46,280
+Outside, the city moved through the evening.
+
+276
+00:09:46,820 --> 00:09:48,900
+Delivery drones crossed between towers.
+
+277
+00:09:49,340 --> 00:09:52,040
+Models whispered invisible spells through millions of machines.
+
+278
+00:09:52,840 --> 00:09:55,080
+Somewhere, a child asked an assistant for a
+
+279
+00:09:55,080 --> 00:09:57,480
+dragon and received, after a brief safety check,
+
+280
+00:09:57,840 --> 00:09:58,760
+something with wings.
+
+281
+00:09:59,320 --> 00:10:01,880
+The future continued arriving at one second per
+
+282
+00:10:01,880 --> 00:10:02,200
+second.
+
+283
+00:10:02,960 --> 00:10:03,280
+Mostly.
+
+284
+00:10:03,940 --> 00:10:06,120
+And deep inside the temporal network where the
+
+285
+00:10:06,120 --> 00:10:08,780
+oldest logs were kept, the first recorded magical
+
+286
+00:10:08,780 --> 00:10:11,320
+event still appeared exactly as it always had.
+
+287
+00:10:11,900 --> 00:10:13,080
+Duplicate beverage event.
+
+288
+00:10:13,680 --> 00:10:14,580
+Priority low.
+
+289
+00:10:15,200 --> 00:10:16,460
+Status unresolved.
