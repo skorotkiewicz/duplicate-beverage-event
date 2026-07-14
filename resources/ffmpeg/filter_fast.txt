@@ -1,0 +1,34 @@
+[0:a]asplit=3[aout][aspec][awave];
+[aspec]showspectrum=s=1180x300:mode=combined:color=nebulae:scale=log:fscale=log:slide=scroll:fps=24:opacity=0.9,format=rgba,colorkey=black:0.08:0.15[spec];
+[awave]showwaves=s=1180x120:mode=line:rate=24:colors=0x67e8f9,format=rgba,colorkey=black:0.08:0.15[wav];
+[1:v]format=rgba,
+ drawgrid=w=80:h=80:t=1:c=0x9bdcff@0.035,
+ drawbox=x='mod(t*170,1280)':y=34:w=2:h=652:t=fill:c=0x67e8f9@0.09,
+ drawbox=x=36:y='34+mod(t*83,652)':w=1208:h=2:t=fill:c=0x67e8f9@0.07[base];
+[base][spec]overlay=x=50:y=210:shortest=1[tmp1];
+[tmp1][wav]overlay=x=50:y=520:shortest=1,
+ drawbox=x=36:y=34:w=1208:h=652:t=2:c=0x7dd3fc@0.35,
+ drawbox=x=58:y=54:w=1164:h=612:t=1:c=0x7dd3fc@0.12,
+ drawtext=font='DejaVu Sans Mono':text='TEMPORAL SYSTEM / NODE 07':x=66:y=66:fontsize=18:fontcolor=0x9bdcff@0.78,
+ drawtext=font='DejaVu Sans Mono':text='AUDIO-REACTIVE ARCHIVE / LIVE TEMPORAL FEED':x=66:y=642:fontsize=16:fontcolor=0x9bdcff@0.62,
+ drawtext=font='DejaVu Sans Mono':textfile='subtitle.txt':x=(w-text_w)/2:y=180:fontsize=28:fontcolor=white@0.72:enable='between(t,2,11)',
+ drawtext=font='DejaVu Sans Mono':textfile='title.txt':x=(w-text_w)/2:y=240:fontsize=58:fontcolor=white:enable='between(t,5,18)',
+ drawtext=font='DejaVu Sans Mono':textfile='priority.txt':x=(w-text_w)/2:y=322:fontsize=22:fontcolor=0x67e8f9@0.85:enable='between(t,8,18)',
+ drawtext=font='DejaVu Sans Mono':textfile='magic.txt':x=(w-text_w)/2:y=190:fontsize=38:line_spacing=14:fontcolor=white:enable='between(t,22,42)',
+ drawtext=font='DejaVu Sans Mono':textfile='tuesday.txt':x=(w-text_w)/2:y=185:fontsize=42:line_spacing=16:fontcolor=white:enable='between(t,52,74)',
+ drawtext=font='DejaVu Sans Mono':textfile='road.txt':x=(w-text_w)/2:y=190:fontsize=40:line_spacing=16:fontcolor=white:enable='between(t,91,112)',
+ drawtext=font='DejaVu Sans Mono':textfile='coffee.txt':x=105:y=175:fontsize=31:line_spacing=20:fontcolor=white:enable='between(t,119,143)',
+ drawtext=font='DejaVu Sans Mono':text='10':x=(w-text_w)/2:y=245:fontsize=120:fontcolor=white@0.9:enable='between(t,136,137.2)',
+ drawtext=font='DejaVu Sans Mono':text='5':x=(w-text_w)/2:y=245:fontsize=120:fontcolor=white@0.9:enable='between(t,137.2,138.4)',
+ drawtext=font='DejaVu Sans Mono':text='3':x=(w-text_w)/2:y=245:fontsize=120:fontcolor=white@0.9:enable='between(t,138.4,139.6)',
+ drawtext=font='DejaVu Sans Mono':text='2':x=(w-text_w)/2:y=245:fontsize=120:fontcolor=white@0.9:enable='between(t,139.6,140.8)',
+ drawtext=font='DejaVu Sans Mono':text='1':x=(w-text_w)/2:y=245:fontsize=120:fontcolor=white@0.9:enable='between(t,140.8,142)',
+ drawtext=font='DejaVu Sans Mono':textfile='folded.txt':x=(w-text_w)/2:y=200:fontsize=46:line_spacing=16:fontcolor=white:enable='between(t,145,164)',
+ drawtext=font='DejaVu Sans Mono':textfile='final.txt':x=(w-text_w)/2:y=190:fontsize=42:line_spacing=18:fontcolor=white:enable='between(t,165,176)',
+ drawtext=font='DejaVu Sans Mono':text='THE FUTURE ARRIVES ONE SECOND PER SECOND.':x=(w-text_w)/2:y=430:fontsize=20:fontcolor=0x9bdcff@0.82:enable='between(t,168,174)',
+ drawtext=font='DejaVu Sans Mono':text='MOSTLY.':x=(w-text_w)/2:y=475:fontsize=26:fontcolor=white:enable='between(t,173,176)',
+ noise=alls=3:allf=t,
+ vignette=PI/5,
+ fade=t=in:st=0:d=2,
+ fade=t=out:st=173:d=3,
+ format=yuv420p[vout]
