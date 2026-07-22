@@ -1,3 +1,5 @@
+# Moved to https://github.com/skorotkiewicz/x
+
 # Duplicate Beverage Event
 
 A single-page story site about a low-priority temporal incident, one impossible coffee, and the first useful miracle.
